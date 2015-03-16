@@ -1,0 +1,6 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\bin\WcfRest.dll.config
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\bin\WcfRest.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\bin\WcfRest.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\obj\Debug\WcfRest.csprojResolveAssemblyReference.cache
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\obj\Debug\WcfRest.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\WcfRest\WcfRest\obj\Debug\WcfRest.pdb
